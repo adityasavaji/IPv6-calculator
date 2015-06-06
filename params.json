@@ -1,1 +1,1 @@
-{"name":"Ipv6-calculator","tagline":"","body":"# IPv6-calculator\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Ipv6-calculator","tagline":"","body":"# IPv6-calculator\r\n\r\n<form name=\"myForm\"\r\nonsubmit=\"return validateForm()\" method=\"post\">\r\nName: <input type=\"text\" name=\"fname\">\r\n<input type=\"submit\" value=\"Submit\">\r\n</form>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
